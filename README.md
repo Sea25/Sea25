@@ -22,65 +22,21 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## 👋 About Me
 
-<div style="background: linear-gradient(135deg, #f8f9fa, #e9ecef); padding: 1.5rem; border-radius: 15px; border-left: 5px solid #FF6B6B;">
+<div style="background: linear-gradient(135deg, #f8f9fa, #e9ecef); padding: 1.5rem; border-radius: 15px; border-left: 5px solid #FF6B6B; margin-bottom: 2rem;">
 
-I'm a B.Tech IT student passionate about  
-Frontend Development, Web Technologies, and UI Design.
+I'm a B.Tech IT student passionate about **Frontend Development, Web Technologies, and UI Design**.
 
-I enjoy crafting clean interfaces, learning modern tools,  
-and steadily improving my problem-solving abilities.
+✨ **What I enjoy:**
+- Crafting clean, responsive interfaces
+- Learning modern tools and frameworks
+- Improving problem-solving abilities
+- Building projects that make a difference
+
+🎯 **Current Focus:** Mastering React ecosystem and building full-stack applications
 
 Breaking code for better development 🚀💻
 
 </div>
-
-<br/>
-
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sea25&show_icons=true&theme=radical&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sea25&theme=radical&hide_border=true" />
-</p>
-
-<br/>
-
-<!-- ===================== MOST USED LANGUAGES ===================== -->
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sea25&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<br/>
-
-<!-- ===================== CONTACT ===================== -->
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Sea25" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Sea25-black?style=for-the-badge&logo=github" />
-  </a>
-
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
-<br/>
-
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  ✨ Thanks for visiting my profile ✨ <br/>
-  Keep Learning • Keep Building • Keep Growing 💙🚀
-</p>
-
-> *"The foundation of a building is unseen."*
-</div>
-
-<br/>
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🧰 Tech Stack
@@ -94,91 +50,127 @@ Breaking code for better development 🚀💻
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php" style="margin: 5px;"/>
-  </p>
-</div>
-
-### 🎨 Frontend
-<div style="background: linear-gradient(135deg, #A3E4D7, #45B7D1); padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(69, 183, 209, 0.2);">
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/UI%20Design-9333EA?style=for-the-badge" style="margin: 5px;"/>
-  </p>
-</div>
-
-### ⚙ Backend & Runtime
-<div style="background: linear-gradient(135deg, #FFD8CC, #FF6B6B); padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(255, 107, 107, 0.2);">
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" style="margin: 5px;"/>
   </p>
 </div>
 
-### 🗄 Databases & Learning
-<div style="background: linear-gradient(135deg, #D6EAF8, #85C1E9); padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(133, 193, 233, 0.2);">
+### ⚛ Frontend
+<div style="background: linear-gradient(135deg, #A3E4D7, #45B7D1); padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(69, 183, 209, 0.2);">
   <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter" style="margin: 5px;"/>
+  </p>
+</div>
+
+### ⚙ Backend & Databases
+<div style="background: linear-gradient(135deg, #FFD8CC, #FF6B6B); padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(255, 107, 107, 0.2);">
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/DSA-F97316?style=for-the-badge" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" style="margin: 5px;"/>
   </p>
 </div>
 
-</div>
-
-<br/>
-
-<!-- ===================== TOOLS ===================== -->
-## 🛠 Tools & Workflow
-
-<div align="center" style="background: linear-gradient(135deg, #E8DAEF, #BB8FCE); padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(187, 143, 206, 0.2);">
+### 🛠 Tools & Workflow
+<div style="background: linear-gradient(135deg, #E8DAEF, #BB8FCE); padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(187, 143, 206, 0.2);">
   <p>
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/Cursor-8B5CF6?style=for-the-badge" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio" style="margin: 5px;"/>
   </p>
 </div>
 
-<br/>
+</div>
+
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Analytics
+
+<div align="center" style="margin: 2rem 0;">
+  
+  <!-- Stats Cards -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-bottom: 2rem;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sea25&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
+         alt="GitHub Stats" style="border-radius: 10px; max-width: 500px;"/>
+    
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sea25&theme=radical&hide_border=true" 
+         alt="GitHub Streak" style="border-radius: 10px; max-width: 500px;"/>
+  </div>
+  
+  <!-- Language Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sea25&layout=compact&theme=radical&hide_border=true&langs_count=8" 
+       alt="Most Used Languages" style="border-radius: 10px; max-width: 500px;"/>
+  
+</div>
 
 <!-- ===================== PROJECTS ===================== -->
 ## 📌 Featured Projects
 
-<div style="background: linear-gradient(135deg, #FEF9E7, #F7DC6F); padding: 1.5rem; border-radius: 15px; box-shadow: 0 6px 20px rgba(247, 220, 111, 0.15);">
+<div style="background: linear-gradient(135deg, #fef9e7, #f7dc6f); padding: 2rem; border-radius: 15px; margin: 2rem 0;">
 
-| Project | Description | Tech |
-|--------|------------|------|
-| **[Next_app](https://github.com/Vyshak10/Next_app.git)** | A full-fledged web application demonstrating modern frontend & backend integration. Highly structured and clean code, perfect for showcasing advanced skills. | React, Node.js, Supabase |
-| **[Portfolio](https://github.com/Sea25/Portfolio.git)** | Personal portfolio website showcasing work, skills, and projects with a responsive design. | HTML, CSS, JavaScript, React |
-| **[The Adoption Tale](https://github.com/Sea25/The-Adoption-Tale.git)** | A pet adoption portal allowing users to browse pets, view details, and submit adoption requests. Focus on user-friendly UI and smooth UX. | HTML, CSS, JavaScript, React |
-| **[ChatterBox](https://github.com/Sea25/ChatterBox.git)** | Real-time group chat app with WebSockets, emoji support, and typing indicators. Demonstrates real-time interaction and Node.js backend handling. | Node.js, WebSocket, HTML, CSS, JavaScript |
-| **[CodeQuest](https://github.com/Sea25/CodeQuest.git)** | A quiz web app for learning web development concepts with timer and scoring functionality. | HTML, CSS, JavaScript |
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Next_app** | Full-stack web application with modern frontend & backend integration | React, Node.js, Supabase | [GitHub](https://github.com/Vyshak10/Next_app.git) |
+| **Portfolio** | Personal portfolio with responsive design and project showcase | HTML, CSS, React | [GitHub](https://github.com/Sea25/Portfolio.git) |
+| **The Adoption Tale** | Pet adoption portal with user-friendly UI and adoption request system | React, JavaScript, CSS | [GitHub](https://github.com/Sea25/The-Adoption-Tale.git) |
+| **ChatterBox** | Real-time group chat application with WebSocket integration | Node.js, WebSocket, JavaScript | [GitHub](https://github.com/Sea25/ChatterBox.git) |
+| **CodeQuest** | Interactive quiz app for web development learning | HTML, CSS, JavaScript | [GitHub](https://github.com/Sea25/CodeQuest.git) |
 
 </div>
 
-<br/>
+<!-- ===================== ACTIVITY ===================== -->
+## 📈 GitHub Activity
 
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sea25&theme=react-dark&hide_border=true&area=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+<!-- ===================== CONTACT ===================== -->
+## 📫 Let's Connect
 
-
-<hr/>
-
-## 🤝 Connect
+<div align="center" style="margin: 2rem 0;">
 
 <p align="center">
-  <a href="https://github.com/Sea25">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/Sea25" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="margin: 5px;"/>
   </a>
-  <a href="https://www.linkedin.com/in/sonabr016/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  
+  <a href="https://www.linkedin.com/in/sonabr016/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 5px;"/>
   </a>
-  <a href="mailto:sonaabraham016@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  
+  <a href="mailto:sonaabraham016@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 5px;"/>
+  </a>
+  
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="margin: 5px;"/>
   </a>
 </p>
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+<hr style="border: 1px solid #e9ecef; margin: 2rem 0;">
+
+<div align="center" style="color: #6c757d; font-size: 0.9rem; padding: 1rem;">
+
+✨ **Thanks for visiting my profile!** ✨<br/>
+*Keep Learning • Keep Building • Keep Growing* 💙🚀
+
+> *"The foundation of every great building is unseen, but it's what keeps it standing tall."*
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sea25&color=blue&style=flat" alt="Profile views" />
+</p>
+
+</div>
+
+<style>
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
