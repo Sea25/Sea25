@@ -1,10 +1,11 @@
 <!-- ===================== HEADER & BANNER ===================== -->
 <div align="center">
-  
+
   <!-- Animated Profile Header -->
   <h1 align="center" style="font-size: 3rem; margin-bottom: 0.5rem; background: linear-gradient(90deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FFEAA7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; animation: gradient 3s ease infinite; background-size: 300% 300%;">
     Sona Elizabeth Abraham
   </h1>
+
   <h3 align="center" style="font-size: 1.4rem; color: #5D6D7E; margin-top: 0;">
     B.Tech IT Student • Frontend Developer
   </h3>
@@ -22,12 +23,59 @@
 ## 👋 About Me
 
 <div style="background: linear-gradient(135deg, #f8f9fa, #e9ecef); padding: 1.5rem; border-radius: 15px; border-left: 5px solid #FF6B6B;">
+
 I'm a B.Tech IT student passionate about  
 Frontend Development, Web Technologies, and UI Design.
 
 I enjoy crafting clean interfaces, learning modern tools,  
 and steadily improving my problem-solving abilities.
-Breaking code for better develops.
+
+Breaking code for better development 🚀💻
+
+</div>
+
+<br/>
+
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sea25&show_icons=true&theme=radical&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sea25&theme=radical&hide_border=true" />
+</p>
+
+<br/>
+
+<!-- ===================== MOST USED LANGUAGES ===================== -->
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sea25&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<br/>
+
+<!-- ===================== CONTACT ===================== -->
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Sea25" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Sea25-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+<br/>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  ✨ Thanks for visiting my profile ✨ <br/>
+  Keep Learning • Keep Building • Keep Growing 💙🚀
+</p>
 
 > *"The foundation of a building is unseen."*
 </div>
@@ -115,9 +163,9 @@ Breaking code for better develops.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sea25&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sea25&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
+
 
 <hr/>
 
