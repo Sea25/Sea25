@@ -138,9 +138,7 @@ Breaking code for better development 🚀💻
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 5px;"/>
   </a>
   
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="margin: 5px;"/>
-  </a>
+
 </p>
 
 </div>
@@ -161,10 +159,4 @@ Breaking code for better development 🚀💻
 
 </div>
 
-<style>
-@keyframes gradient {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
+
