@@ -89,24 +89,18 @@ Breaking code for better development 🚀💻
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Analytics
 
-<div align="center" style="margin: 2rem 0;">
-  
-  <!-- Stats Cards -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-bottom: 2rem;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sea25&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
-         alt="GitHub Stats" style="border-radius: 10px; max-width: 500px;"/>
-    
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sea25&theme=radical&hide_border=true" 
-         alt="GitHub Streak" style="border-radius: 10px; max-width: 500px;"/>
-  </div>
-  
-  <!-- Language Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sea25&layout=compact&theme=radical&hide_border=true&langs_count=8" 
-       alt="Most Used Languages" style="border-radius: 10px; max-width: 500px;"/>
-  
-</div>
+<p align="center">
 
-<!-- ===================== PROJECTS ===================== -->
+<img src="https://github-readme-stats.vercel.app/api?username=Sea25&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sea25&theme=radical&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sea25&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+
+</p>
+
 ## 📌 Featured Projects
 
 <div style="background: linear-gradient(135deg, #fef9e7, #f7dc6f); padding: 2rem; border-radius: 15px; margin: 2rem 0;">
