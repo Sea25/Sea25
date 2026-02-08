@@ -24,17 +24,8 @@
 
 <div style="background: linear-gradient(135deg, #f8f9fa, #e9ecef); padding: 1.5rem; border-radius: 15px; border-left: 5px solid #FF6B6B; margin-bottom: 2rem;">
 
-I'm a B.Tech IT student passionate about **Frontend Development, Web Technologies, and UI Design**.
-
-✨ **What I enjoy:**
-- Crafting clean, responsive interfaces
-- Learning modern tools and frameworks
-- Improving problem-solving abilities
-- Building projects that make a difference
-
-🎯 **Current Focus:** Mastering React ecosystem and building full-stack applications
-
-Breaking code for better development 🚀💻
+I’m a B.Tech IT student who’s passionate about Frontend Development, IoT Projects, App Development, and UI Design. 🚀
+I love creating clean, interactive user experiences and continuously learning new technologies to improve my skills. 💻
 
 </div>
 
@@ -108,8 +99,8 @@ Breaking code for better development 🚀💻
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | **Next_app** | Full-stack web application with modern frontend & backend integration | Dart, Flutter | [GitHub](https://github.com/Vyshak10/Next_app.git) |
-| **Portfolio** | Personal portfolio with responsive design and project showcase | HTML, CSS, React | [GitHub](https://github.com/Sea25/Portfolio.git) |
-| **The Adoption Tale** | Pet adoption portal with user-friendly UI and adoption request system | React, Mysql | [GitHub](https://github.com/Sea25/The-Adoption-Tale.git) |
+| **Portfolio** | Personal portfolio with responsive design and project showcase | Typescript | [GitHub](https://github.com/Sea25/Portfolio.git) |
+| **The Adoption Tale** | Pet adoption portal with user-friendly UI and adoption request system | PHP, Mysql | [GitHub](https://github.com/Sea25/The-Adoption-Tale.git) |
 | **ChatterBox** | Real-time group chat application with WebSocket integration | Node.js, WebSocket, JavaScript | [GitHub](https://github.com/Sea25/ChatterBox.git) |
 | **CodeQuest** | Interactive quiz app for web development learning | HTML, CSS, JavaScript | [GitHub](https://github.com/Sea25/CodeQuest.git) |
 
