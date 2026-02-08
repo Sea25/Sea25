@@ -107,9 +107,9 @@ Breaking code for better development 🚀💻
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Next_app** | Full-stack web application with modern frontend & backend integration | React, Node.js, Supabase | [GitHub](https://github.com/Vyshak10/Next_app.git) |
+| **Next_app** | Full-stack web application with modern frontend & backend integration | Dart, Flutter | [GitHub](https://github.com/Vyshak10/Next_app.git) |
 | **Portfolio** | Personal portfolio with responsive design and project showcase | HTML, CSS, React | [GitHub](https://github.com/Sea25/Portfolio.git) |
-| **The Adoption Tale** | Pet adoption portal with user-friendly UI and adoption request system | React, JavaScript, CSS | [GitHub](https://github.com/Sea25/The-Adoption-Tale.git) |
+| **The Adoption Tale** | Pet adoption portal with user-friendly UI and adoption request system | React, Mysql | [GitHub](https://github.com/Sea25/The-Adoption-Tale.git) |
 | **ChatterBox** | Real-time group chat application with WebSocket integration | Node.js, WebSocket, JavaScript | [GitHub](https://github.com/Sea25/ChatterBox.git) |
 | **CodeQuest** | Interactive quiz app for web development learning | HTML, CSS, JavaScript | [GitHub](https://github.com/Sea25/CodeQuest.git) |
 
