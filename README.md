@@ -61,7 +61,6 @@ I love creating clean, interactive user experiences and continuously learning ne
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" style="margin: 5px;"/>
   </p>
 </div>
 
@@ -99,7 +98,7 @@ I love creating clean, interactive user experiences and continuously learning ne
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | **Next_app** | Full-stack web application with modern frontend & backend integration | Dart, Flutter | [GitHub](https://github.com/Vyshak10/Next_app.git) |
-| **Portfolio** | Personal portfolio with responsive design and project showcase | Typescript | [GitHub](https://github.com/Sea25/Portfolio.git) |
+| **Portfolio** | Personal portfolio with responsive design and project showcase | HTML, CSS | [GitHub](https://github.com/Sea25/Portfolio.git) |
 | **The Adoption Tale** | Pet adoption portal with user-friendly UI and adoption request system | PHP, Mysql | [GitHub](https://github.com/Sea25/The-Adoption-Tale.git) |
 | **ChatterBox** | Real-time group chat application with WebSocket integration | Node.js, WebSocket, JavaScript | [GitHub](https://github.com/Sea25/ChatterBox.git) |
 | **CodeQuest** | Interactive quiz app for web development learning | HTML, CSS, JavaScript | [GitHub](https://github.com/Sea25/CodeQuest.git) |
