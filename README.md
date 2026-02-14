@@ -30,51 +30,58 @@ I love creating clean, interactive user experiences and continuously learning ne
 </div>
 
 <!-- ===================== TECH STACK ===================== -->
+<!-- ===================== TECH STACK ===================== -->
 ## 🧰 Tech Stack
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
 
-### 💻 Languages
+### 💻 Programming Languages
 <div style="background: linear-gradient(135deg, #FFEAA7, #FFD93D); padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(255, 215, 0, 0.2);">
   <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin: 5px;"/>
   </p>
 </div>
 
-### ⚛ Frontend
+### 🌐 Web Technologies
 <div style="background: linear-gradient(135deg, #A3E4D7, #45B7D1); padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(69, 183, 209, 0.2);">
   <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 5px;"/>
   </p>
 </div>
 
-### ⚙ Backend & Databases
+### ⚛ Frameworks & Libraries
 <div style="background: linear-gradient(135deg, #FFD8CC, #FF6B6B); padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(255, 107, 107, 0.2);">
   <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/Python_Turtle-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin: 5px;"/>
   </p>
 </div>
 
-### 🛠 Tools & Workflow
+### 🗄 Databases
 <div style="background: linear-gradient(135deg, #E8DAEF, #BB8FCE); padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(187, 143, 206, 0.2);">
   <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 5px;"/>
+  </p>
+</div>
+
+### 🛠 Tools & Platforms
+<div style="background: linear-gradient(135deg, #D6EAF8, #5DADE2); padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(93, 173, 226, 0.2);">
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" style="margin: 5px;"/>
   </p>
 </div>
 
 </div>
+
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Analytics
