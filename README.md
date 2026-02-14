@@ -150,9 +150,7 @@ I love creating clean, interactive user experiences and continuously learning ne
 
 > *"The foundation of every great building is unseen, but it's what keeps it standing tall."*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sea25&color=blue&style=flat" alt="Profile views" />
-</p>
+
 
 </div>
 
