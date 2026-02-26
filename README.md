@@ -24,7 +24,7 @@
 
 <div style="background: linear-gradient(135deg, #f8f9fa, #e9ecef); padding: 1.5rem; border-radius: 15px; border-left: 5px solid #FF6B6B; margin-bottom: 2rem;">
 
-I’m a B.Tech IT student who’s passionate about Frontend Development, IoT Projects, App Development, and UI Design. 🚀
+I’m a B.Tech IT student who’s passionate about Full-Stack Development, IoT Projects, App Development, and UI Design. 🚀
 I love creating clean, interactive user experiences and continuously learning new technologies to improve my skills. 💻
 
 </div>
