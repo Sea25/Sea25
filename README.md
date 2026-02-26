@@ -7,12 +7,12 @@
   </h1>
 
   <h3 align="center" style="font-size: 1.4rem; color: #5D6D7E; margin-top: 0;">
-    B.Tech IT Student • Frontend Developer
+    B.Tech IT Student • Full-Stack Developer
   </h3>
 
   <!-- Animated Typing Effect -->
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Frontend+Developer;Web+%7C+App+Development;Designing+with+Code;Student+Hustler" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Web+%7C+App+Development;Designing+with+Code;Student+Hustler" />
   </div>
 
 </div>
