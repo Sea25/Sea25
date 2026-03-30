@@ -6,7 +6,7 @@
   </h1>
 
   <h3 align="center">
-    B.Tech IT Student • Full-Stack Developer
+    B.Tech IT Student • CUSAT
   </h3>
 
   <div align="center">
