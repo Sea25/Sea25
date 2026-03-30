@@ -1,157 +1,172 @@
 <!-- ===================== HEADER & BANNER ===================== -->
 <div align="center">
 
-  <!-- Animated Profile Header -->
-  <h1 align="center" style="font-size: 3rem; margin-bottom: 0.5rem; background: linear-gradient(90deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FFEAA7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; animation: gradient 3s ease infinite; background-size: 300% 300%;">
+  <h1 align="center">
     Sona Elizabeth Abraham
   </h1>
 
-  <h3 align="center" style="font-size: 1.4rem; color: #5D6D7E; margin-top: 0;">
+  <h3 align="center">
     B.Tech IT Student • Full-Stack Developer
   </h3>
 
-  <!-- Animated Typing Effect -->
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Web+%7C+App+Development;Designing+with+Code;Student+Hustler" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+App+Developer;Hustler" />
   </div>
 
 </div>
 
 <br/>
 
+---
+
 <!-- ===================== ABOUT ME ===================== -->
 ## 👋 About Me
 
-<div style="background: linear-gradient(135deg, #f8f9fa, #e9ecef); padding: 1.5rem; border-radius: 15px; border-left: 5px solid #FF6B6B; margin-bottom: 2rem;">
+I'm a B.Tech IT student passionate about Full-Stack Development, Web & App Development. 🚀 I'm planning to dive into the exciting world of IoT projects soon! I love creating clean, interactive user experiences and when I'm not coding, you'll find me doodling away. 🎨💻
 
-I’m a B.Tech IT student who’s passionate about Full-Stack Development, IoT Projects, App Development, and UI Design. 🚀
-I love creating clean, interactive user experiences and continuously learning new technologies to improve my skills. 💻
+---
 
-</div>
-
-<!-- ===================== TECH STACK ===================== -->
 <!-- ===================== TECH STACK ===================== -->
 ## 🧰 Tech Stack
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
-
 ### 💻 Programming Languages
-<div style="background: linear-gradient(135deg, #FFEAA7, #FFD93D); padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(255, 215, 0, 0.2);">
-  <p>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin: 5px;"/>
-  </p>
-</div>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🌐 Web Technologies
-<div style="background: linear-gradient(135deg, #A3E4D7, #45B7D1); padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(69, 183, 209, 0.2);">
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 5px;"/>
-  </p>
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚛ Frameworks & Libraries
-<div style="background: linear-gradient(135deg, #FFD8CC, #FF6B6B); padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(255, 107, 107, 0.2);">
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/Python_Turtle-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin: 5px;"/>
-  </p>
-</div>
+### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### 🗄 Databases
-<div style="background: linear-gradient(135deg, #E8DAEF, #BB8FCE); padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(187, 143, 206, 0.2);">
-  <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 5px;"/>
-  </p>
-</div>
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🛠 Tools & Platforms
-<div style="background: linear-gradient(135deg, #D6EAF8, #5DADE2); padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(93, 173, 226, 0.2);">
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" style="margin: 5px;"/>
-  </p>
-</div>
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-</div>
-
+---
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sea25&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sea25&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sea25&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sea25&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sea25&theme=radical&hide_border=true" />
+<!-- ===================== FEATURED PROJECTS ===================== -->
+## 📌 Featured Projects
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sea25&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⛳ Golf Charity Subscription Platform</h3>
+      <p><em>Combining performance tracking with social impact</em></p>
+      <p>Lets golfers subscribe monthly or yearly to track their Stableford scores, participate in monthly prize draws, and automatically donate a portion of their subscription to a charity of their choice.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Sea25/Golf-Charity-Subscription-Platform.git">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Trading Bot</h3>
+      <p><em>Automated futures trading on Binance Testnet</em></p>
+      <p>A Python trading bot that interacts with Binance Futures Testnet — a sandbox environment for testing futures trading strategies without real money on the line.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Sea25/Trading-Bot.git">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 CareerLink</h3>
+      <p><em>Your smart career intelligence companion</em></p>
+      <p>A scalable career intelligence platform that helps students prepare for internships and jobs through skill gap analysis, ATS-based resume evaluation, and interactive career path visualization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Sea25/Career-Link-.git">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗳️ POLLYTICS</h3>
+      <p><em>Kerala Election Analytics Portal</em></p>
+      <p>Transforms complex Kerala election data into interactive visualizations, enabling citizens to explore constituency-wise results, booth-level statistics, and voting patterns with ease.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Sea25/Pollytics.git">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-</p>
+<br/>
 
-## 📌 Featured Projects
-
-<div style="background: linear-gradient(135deg, #fef9e7, #f7dc6f); padding: 2rem; border-radius: 15px; margin: 2rem 0;">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **Next_app** | Full-stack web application with modern frontend & backend integration | Dart, Flutter | [GitHub](https://github.com/Vyshak10/Next_app.git) |
-| **Portfolio** | Personal portfolio with responsive design and project showcase | HTML, CSS | [GitHub](https://github.com/Sea25/Portfolio.git) |
-| **The Adoption Tale** | Pet adoption portal with user-friendly UI and adoption request system | PHP, Mysql | [GitHub](https://github.com/Sea25/The-Adoption-Tale.git) |
-| **ChatterBox** | Real-time group chat application with WebSocket integration | Node.js, WebSocket, JavaScript | [GitHub](https://github.com/Sea25/ChatterBox.git) |
-| **CodeQuest** | Interactive quiz app for web development learning | HTML, CSS, JavaScript | [GitHub](https://github.com/Sea25/CodeQuest.git) |
-
-</div>
+---
 
 <!-- ===================== ACTIVITY ===================== -->
 ## 📈 GitHub Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sea25&theme=react-dark&hide_border=true&area=true)
 
+---
+
 <!-- ===================== CONTACT ===================== -->
 ## 📫 Let's Connect
 
-<div align="center" style="margin: 2rem 0;">
-
 <p align="center">
   <a href="https://github.com/Sea25" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  
+  &nbsp;
   <a href="https://www.linkedin.com/in/sonabr016/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+  &nbsp;
   <a href="mailto:sonaabraham016@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  
-
 </p>
 
-</div>
+---
 
 <!-- ===================== FOOTER ===================== -->
-<hr style="border: 1px solid #e9ecef; margin: 2rem 0;">
-
-<div align="center" style="color: #6c757d; font-size: 0.9rem; padding: 1rem;">
+<div align="center">
 
 ✨ **Thanks for visiting my profile!** ✨<br/>
 *Keep Learning • Keep Building • Keep Growing* 💙🚀
 
 > *"The foundation of every great building is unseen, but it's what keeps it standing tall."*
 
-
-
 </div>
-
-
