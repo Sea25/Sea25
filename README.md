@@ -22,7 +22,7 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## 👋 About Me
 
-I'm a B.Tech IT student passionate about Full-Stack Development, Web & App Development. 🚀 I'm planning to dive into the exciting world of IoT projects soon! I love creating clean, interactive user experiences and when I'm not coding, you'll find me doodling away. 🎨💻
+B.Tech Information Technology student with strong interest in AI/ML and Full Stack Development. Skilled in Python, React, and building scalable web applications. Seeking internship opportunities to apply technical skills, gain industry exposure, and contribute to impactful projects. 🎨💻
 
 ---
 
