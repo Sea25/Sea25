@@ -37,9 +37,7 @@ I enjoy exploring new technologies, solving real-world problems, and continuousl
 
 ### 🌐 Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### ⚛️ Frameworks & Libraries
@@ -55,27 +53,19 @@ I enjoy exploring new technologies, solving real-world problems, and continuousl
 
 ### 🖥️ System Administration & Infrastructure
 ![Windows](https://img.shields.io/badge/Windows_Administration-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
 ![TeamViewer](https://img.shields.io/badge/TeamViewer-0E8EE9?style=for-the-badge&logo=teamviewer&logoColor=white)
-
 ![Sophos](https://img.shields.io/badge/Sophos-00539B?style=for-the-badge)
-
 ![Fortinet](https://img.shields.io/badge/FortiClient_VPN-EE3124?style=for-the-badge)
 
 ### 🌐 Networking
 ![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge)
-
 ![DNS](https://img.shields.io/badge/DNS-1E88E5?style=for-the-badge)
-
 ![DHCP](https://img.shields.io/badge/DHCP-1565C0?style=for-the-badge)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white))
 
 ---
